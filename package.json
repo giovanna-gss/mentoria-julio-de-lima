@@ -1,0 +1,23 @@
+{
+  "name": "mentoria-julio-de-lima",
+  "version": "1.0.0",
+  "main": "linguagem.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanna-gss/mentoria-julio-de-lima.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giovanna-gss/mentoria-julio-de-lima/issues"
+  },
+  "homepage": "https://github.com/giovanna-gss/mentoria-julio-de-lima#readme",
+  "description": "",
+  "dependencies": {
+    "mocha": "^11.7.1"
+  }
+}
